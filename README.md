@@ -1,6 +1,6 @@
 # bartPublic
 BAH public GIT repo
-
+![test gif](SOW_d1.gif)
 
 This project has adopted the [Microsoft Open Source Code of
 Conduct](https://opensource.microsoft.com/codeofconduct/).
