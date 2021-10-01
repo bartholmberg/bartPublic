@@ -1,10 +1,6 @@
 # bartPublic
-BAH public GIT repo
-![test gif](SOW_d1.gif)
+BAH public GIT repo, test a few gifs for video , charts, etc using markdown
 
-This project has adopted the [Microsoft Open Source Code of
-Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct
-FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com)
-with any additional questions or comments.
+![test gif1](SOW_d1.gif)
+
+![test gif2](beaverLake.gif)
