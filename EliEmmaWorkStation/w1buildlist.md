@@ -17,7 +17,7 @@
 
 ### Case , $ 182
 
-![case, very quiet ,room for GPUs](case.jpg)
+![case, very quiet ,room for GPUs](Case.JPG)
 ![amazon price, ]https://www.amazon.com/gp/product/B08NW4LD54/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1
 
 
