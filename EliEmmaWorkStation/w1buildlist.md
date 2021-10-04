@@ -1,6 +1,6 @@
 ### Motherboard, $ 350
 
-![mothboard ASUS LGA1200](motherboard.jpg)
+![mothboard ASUS LGA1200](motherboard.JPG)
 
 ![amazon price]www.amazon.com/ROG-Gaming-Motherboard-Stages-Thunderbolt/dp/B08T6HTXF9/ref=asc_df_B08T6HTXF9/?tag=hyprod-20&linkCode=df0&hvadid=493040148899&hvpos=&hvnetw=g&hvrand=7227445321075050305&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033330&hvtargid=pla-1185002396139&psc=1
 
