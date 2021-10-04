@@ -11,7 +11,7 @@
 
 ### Power Supply, $ 140
 
-![Corsair 850 watt](powerSupply.jpg)
+![Corsair 850 watt](PowerSupply.JPG)
 
 ![corsair amazon price]https://www.amazon.com/gp/product/B079H5WNXN/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
@@ -25,7 +25,7 @@
 
 
 ### Display, $ 395
-![display](display.jpg)
+![display](display.JPG)
 
 [display price amz]https://www.amazon.com/gp/product/B0812DKDD9/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
@@ -33,7 +33,7 @@
 
 [cpu Intel Core i9-10900 Desktop Processor 10 Cores up to 5.2 GHz LGA 1200 (Intel 400 Series Chipset) 65W : Amazon.ca: Electronics]https://www.amazon.ca/dp/B086ML4XSD?tag=uig0c-20&linkCode=ogi&th=1&psc=1 
 
-![cpu](cpu.jpg)
+![cpu](cpu.JPG)
 
 
 
@@ -44,7 +44,7 @@
 https://www.amazon.com/gp/product/B07H289S79/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 ### keyboard/mouse, $   40 + 23
-
+![keyboard](keyboard.JPG)
 
 
 [Amazon.com: NEW Microsoft Mobile Mouse - Pastel Blue](https://www.amazon.com/gp/product/B086QQ59GC/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
