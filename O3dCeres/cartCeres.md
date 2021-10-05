@@ -48,7 +48,21 @@ Basically, the intra constraints compose the "backbone" of the trajectory, while
 * test
 * test 
 * 
-## Open3D Eigen solver
+## Open3D Eigen Registration Solver
+
+### registration namespace
+
+[registration namespace ]http://www.open3d.org/docs/latest/cpp_api/namespaceopen3d_1_1pipelines_1_1registration.html
 
 
+
+#### Correspondence Checker Class
+
+[correspondence checker]http://www.open3d.org/docs/latest/cpp_api/classopen3d_1_1pipelines_1_1registration_1_1_correspondence_checker.html
+
+
+<div class="sketchfab-embed-wrapper"> <iframe title="Space Heater test" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f4c8b9fa801c4b89a56142737ccb729f/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/space-heater-test-f4c8b9fa801c4b89a56142737ccb729f?utm_medium=embed&utm_campaign=share-popup&utm_content=f4c8b9fa801c4b89a56142737ccb729f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Space Heater test </a> by <a href="https://sketchfab.com/suraNovi?utm_medium=embed&utm_campaign=share-popup&utm_content=f4c8b9fa801c4b89a56142737ccb729f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> suraNovi </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f4c8b9fa801c4b89a56142737ccb729f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+<iframe src="http://www.open3d.org/docs/latest/cpp_api/classopen3d_1_1pipelines_1_1registration_1_1_correspondence_checker.html" width="400" height="400"></iframe>
 
