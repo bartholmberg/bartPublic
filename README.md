@@ -1,6 +1,8 @@
-
 # bartPublic
-BAH public GIT repo.  Currently test a few gifs for video , charts, etc using markdown.   Considering using for storing presentationss
+
+🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
+
+BAH public GIT repo.  Currently test a few gifs for video , charts, etc using markdown.   Considering using for storing presentations
 
 ![test gif1](SOW_d1.gif)
 
