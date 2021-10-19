@@ -1,6 +1,18 @@
 # bartPublic
 
-🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
+
+
+
+
+​                                                                                   🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
+
+
+
+​                                                                                                               $$y = \frac{d🍎}{{dt}}$$
+
+
+
+
 
 BAH public GIT repo.  Currently test a few gifs for video , charts, etc using markdown.   Considering using for storing presentations
 
