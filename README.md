@@ -1,10 +1,18 @@
-<style type="text/css">
-  body {
-    background-color: #222255;
-    color: #222255;
-  }
-</style>
+####  render math example
 
+
+
+
+
+
+
+	
+####
+		
+				
+	
+	
+	
 ###  bartPublic
 
 
@@ -12,20 +20,15 @@
 
 
 
-\frac{d🍎}{dt}$
+<div class="top">d🍎</div>___<div class="bottom">dt</div>
 		                         
-\frac{3}{7}
-
-
-
-
 
 
 
 BAH public GIT repo.  Currently test a few gifs for video , charts, etc using markdown.
 
 
-  * Github markdown has problem with equation render.  
+
 
 ![test gif1](SOW_d1.gif)
 
@@ -36,5 +39,5 @@ BAH public GIT repo.  Currently test a few gifs for video , charts, etc using ma
 
 
 <iframe src="https://giphy.com/embed/3orieUDCwLUFf6zFzW" width="70" height="70" frameBorder="0"   ></iframe>
-Copy Code
+
 
