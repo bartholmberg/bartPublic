@@ -1,18 +1,12 @@
-# bartPublic
+###  bartPublic
 
 
 
+🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
 
-
-​                                                                                   🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
-
-
-
-​																														$\frac{d🍎}{dt}$
-
-
-
-​					                                                                                                      $\frac{3}{7}$
+\frac{d🍎}{dt}$
+		                         
+\frac{3}{7}
 
 
 
@@ -20,7 +14,10 @@
 
 
 
-BAH public GIT repo.  Currently test a few gifs for video , charts, etc using markdown.   Considering using for storing presentations
+BAH public GIT repo.  Currently test a few gifs for video , charts, etc using markdown.
+
+
+  * Github markdown has problem with equation render.  
 
 ![test gif1](SOW_d1.gif)
 
