@@ -1,8 +1,14 @@
 ###  bartPublic
 
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
+
+$$y-y_0=m(x-x_0)$$
+
+\(∀x_0∀ε>0∃δ>0∋{|x-x_0|}&lt;δ⇒{|f(x)-f(x_0)|}&lt;ε\)
 
 \frac{d🍎}{dt}$
 		                         
