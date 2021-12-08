@@ -1,9 +1,3 @@
-####  render math example
-
-
-
-
-
 
 
 	
