@@ -1,10 +1,25 @@
+<style type="text/css">
+  body {
+    background-color: #336655;
+    color: #336655;
+  }
+</style>
+
 ###  bartPublic
 
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<script src="//yihui.org/js/math-code.js" defer></script>
+<!-- Just one possible MathJax CDN below. You may use others. -->
+<script defer
+  src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
 
+$$\sum_{i=1}^n X_i$$
 🎃🍇🌋🗾🏝️🍎🍔🏄⛷️🕴️🤼‍♀️💡🧮🎥🪕
+
+\(begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc\)
 
 $$y-y_0=m(x-x_0)$$
 
